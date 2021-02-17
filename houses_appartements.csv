@@ -1,0 +1,266 @@
+0,1,2,3
+0,Maison/Villa,6 p4 ch120 m²,379 000 €
+0,Maison/Villa,5 p3 ch208 m²,479 000 €
+0,Maison/Villa,4 p3 ch130 m²,299 000 €
+0,Projet de construction,3 p2 ch75 m²,160 420 €
+0,Projet de construction,3 p2 ch67 m²,166 500 €
+0,Projet de construction,6 p4 ch137 m²,255 100 €
+0,Appartement,3 p2 ch60 m²,185 500 €
+0,Appartement,4 p3 ch68 m²,158 500 €
+0,Projet de construction,3 p2 ch65 m²,156 900 €
+0,Projet de construction,6 p4 ch122 m²,241 300 €
+0,Maison/Villa,5 p3 ch220 m²,483 000 €
+0,Projet de construction,3 p2 ch74 m²,171 400 €
+0,Maison/Villa,5 p4 ch123 m²,379 000 €
+0,Appartement neuf,"3 p65,11 m²1 terr",222 000 €
+0,Appartement,3 p2 ch62 m²,210 000 €
+0,Maison/Villa,5 p3 ch85 m²,240 000 €
+0,Maison/Villa,6 p4 ch116 m²,379 000 €
+0,Appartement,3 p2 ch1 park,215 000 €
+1,Appartement,"3 p2 ch57,15 m²",235 000 €
+1,Appartement neuf,4 p3 ch83 m²,213 500 €
+1,Appartement neuf,3 p2 ch67 m²,167 000 €
+1,Projet de construction,6 p4 ch131 m²,359 900 €
+1,Maison/Villa,5 p4 ch95 m²,179 000 €
+1,Maison/Villa,3 p2 ch72 m²,264 250 €
+1,Projet de construction,6 p4 ch132 m²,507 400 €
+1,Maison/Villa,4 p3 ch80 m²,193 000 €
+1,Maison/Villa,4 p3 ch95 m²,145 000 €
+1,Appartement,3 p2 ch81 m²,149 000 €
+1,Appartement,3 p2 ch60 m²,114 500 €
+1,Projet de construction,6 p4 ch136 m²,352 000 €
+1,Appartement,3 p2 ch63 m²,166 150 €
+1,Maison/Villa,4 p3 ch80 m²,251 000 €
+1,Appartement,3 p2 ch61 m²,128 000 €
+1,Maison/Villa,"4 p2 ch73,63 m²",264 250 €
+1,Appartement,3 p2 ch61 m²,224 000 €
+1,Appartement,4 p2 ch80 m²,163 650 €
+1,Appartement,4 p3 ch80 m²,212 000 €
+1,Maison/Villa,5 p3 ch100 m²,295 000 €
+1,Appartement,"4 p3 ch78,43 m²",167 400 €
+1,Appartement,3 p2 ch81 m²,149 000 €
+1,Appartement,"3 p2 ch60,98 m²",225 000 €
+1,Maison/Villa,5 p4 ch130 m²,170 000 €
+1,Maison/Villa,4 p3 ch72 m²,184 000 €
+2,Appartement neuf,4 p3 ch89 m²,225 500 €
+2,Appartement neuf,4 p3 ch80 m²,219 000 €
+2,Appartement neuf,3 p2 ch66 m²,165 300 €
+2,Appartement neuf,3 p2 ch66 m²,165 300 €
+2,Appartement neuf,3 p2 ch62 m²,174 000 €
+2,Appartement neuf,3 p2 ch68 m²,167 000 €
+2,Appartement neuf,4 p3 ch79 m²,223 000 €
+2,Maison/Villa,1 p1 ch41 m²,108 500 €
+2,Appartement neuf,4 p3 ch80 m²,217 000 €
+2,Appartement neuf,3 p2 ch62 m²,163 300 €
+2,Appartement neuf,4 p3 ch89 m²,226 000 €
+2,Appartement neuf,3 p2 ch66 m²,166 300 €
+2,Appartement neuf,3 p2 ch59 m²,162 300 €
+2,Appartement neuf,3 p2 ch66 m²,164 300 €
+2,Appartement neuf,3 p2 ch59 m²,161 300 €
+2,Appartement neuf,3 p2 ch62 m²,164 300 €
+2,Appartement neuf,3 p2 ch62 m²,164 300 €
+2,Appartement neuf,4 p3 ch89 m²,224 000 €
+2,Appartement neuf,4 p3 ch89 m²,224 000 €
+2,Appartement neuf,3 p2 ch66 m²,167 000 €
+2,Appartement neuf,4 p3 ch80 m²,223 000 €
+2,Maison/Villa,3 p2 ch58 m²,95 000 €
+2,Appartement neuf,3 p3 ch62 m²,174 000 €
+2,Appartement neuf,"2 p1 ch43,76 m²",179 500 €
+2,Appartement neuf,"3 p2 ch67,53 m²",260 000 €
+3,Appartement neuf,"2 p1 ch43,44 m²",178 500 €
+3,Appartement neuf,"3 p2 ch58,6 m²",236 000 €
+3,Appartement neuf,"4 p3 ch78,85 m²",291 500 €
+3,Appartement neuf,"3 p2 ch66,9 m²",263 000 €
+3,Appartement neuf,"2 p1 ch39,94 m²",168 500 €
+3,Appartement neuf,"4 p3 ch78,04 m²",272 000 €
+3,Appartement neuf,"4 p3 ch78,18 m²",280 500 €
+3,Appartement neuf,"4 p3 ch84,24 m²",280 500 €
+3,Appartement neuf,"4 p3 ch78,18 m²",276 500 €
+3,Appartement neuf,"3 p2 ch58,87 m²",243 500 €
+3,Appartement neuf,"2 p1 ch43,37 m²",176 500 €
+3,Appartement neuf,"2 p1 ch43,76 m²",183 500 €
+3,Appartement neuf,"4 p3 ch77,67 m²",276 000 €
+3,Appartement neuf,"4 p3 ch84,24 m²",276 500 €
+3,Appartement neuf,"4 p3 ch78,57 m²",282 500 €
+3,Appartement neuf,"3 p2 ch67,53 m²",239 000 €
+3,Appartement neuf,"4 p3 ch87,97 m²",299 500 €
+3,Appartement neuf,"3 p2 ch66,79 m²",242 000 €
+3,Appartement neuf,"4 p3 ch84,66 m²",296 000 €
+3,Appartement neuf,"4 p3 ch88,72 m²",302 500 €
+3,Appartement neuf,"4 p3 ch78,22 m²",272 500 €
+3,Appartement neuf,"3 p2 ch58,6 m²",216 500 €
+3,Appartement neuf,"4 p3 ch83,27 m²",297 500 €
+3,Appartement neuf,"4 p3 ch83,36 m²",302 500 €
+3,Appartement neuf,"4 p3 ch82,36 m²",300 500 €
+4,Appartement neuf,"4 p3 ch84,27 m²",256 500 €
+4,Appartement neuf,"3 p2 ch67,53 m²",253 500 €
+4,Appartement neuf,"3 p2 ch57,46 m²",226 500 €
+4,Appartement neuf,"3 p2 ch69,71 m²",254 000 €
+4,Maison/Villa,3 p2 ch65 m²,138 000 €
+4,Appartement,3 p2 ch65 m²,138 000 €
+4,Maison/Villa,6 p4 ch180 m²,498 000 €
+4,Appartement,1 p1 terr,85 000 €
+4,Appartement,"4 p3 ch77,75 m²",179 500 €
+4,Maison/Villa,6 p4 ch141 m²,575 000 €
+4,Appartement,3 p2 ch57 m²,237 000 €
+4,Maison/Villa,8 p5 ch250 m²,869 000 €
+4,Maison/Villa,7 p5 ch238 m²,869 400 €
+4,Maison/Villa,8 p6 ch355 m²,607 000 €
+4,Maison/Villa,6 p4 ch100 m²,167 800 €
+4,Maison/Villa,4 p3 ch95 m²,170 560 €
+4,Appartement,"4 p2 ch62,4 m²",198 000 €
+4,Appartement,"3 p2 ch60,98 m²",220 000 €
+4,Maison/Villa,4 p3 ch97 m²,236 000 €
+4,Maison/Villa,5 p4 ch106 m²,349 800 €
+4,Appartement,4 p2 ch79 m²,149 000 €
+4,Maison/Villa,"5 p3 ch93,3 m²",168 500 €
+4,Appartement,"3 p2 ch62,22 m²",189 000 €
+4,Appartement,4 p2 ch85 m²,181 000 €
+4,Maison/Villa,5 p4 ch106 m²,373 000 €
+5,Maison/Villa,4 p2 ch110 m²,264 500 €
+5,Appartement,4 p2 ch79 m²,149 000 €
+5,Maison/Villa,7 p5 ch355 m²,600 000 €
+5,Maison/Villa,6 p4 ch100 m²,167 800 €
+5,Maison/Villa,5 p2 ch100 m²,177 000 €
+5,Maison/Villa,4 p2 ch115 m²,440 000 €
+5,Maison/Villa,3 p2 ch63 m²,138 500 €
+5,Maison/Villa,4 p3 ch130 m²,188 500 €
+5,Maison/Villa,5 p3 ch80 m²,193 000 €
+5,Maison/Villa,4 p3 ch1 park,250 000 €
+5,Maison/Villa,4 p3 ch130 m²,188 500 €
+5,Appartement neuf,"3 p62,57 m²",217 100 €
+5,Appartement neuf,"2 p44,69 m²",165 600 €
+5,Appartement neuf,"4 p78,35 m²",243 300 €
+6,Appartement,3 p2 ch65 m²,133 500 €
+6,Maison/Villa,"4 p3 ch107,81 m²",233 000 €
+6,Maison/Villa,5 p4 ch131 m²,469 000 €
+6,Appartement,2 p1 ch41 m²,131 000 €
+6,Appartement,4 p2 ch76 m²,159 800 €
+6,Appartement,3 p2 ch62 m²,149 000 €
+6,Maison/Villa,5 p3 ch122 m²,225 000 €
+6,Maison/Villa,5 p4 ch131 m²,469 000 €
+6,Appartement,2 p1 ch42 m²,122 475 €
+6,Appartement,"4 p3 ch142,96 m²",367 500 €
+6,Maison/Villa,5 p3 ch110 m²,289 000 €
+6,Appartement,"2 p1 ch41,1 m²",155 250 €
+6,Appartement,4 p2 ch82 m²,175 000 €
+6,Appartement,3 p2 ch63 m²,166 150 €
+6,Appartement,5 p3 ch138 m²,325 000 €
+6,Maison/Villa,6 p5 ch150 m²,189 000 €
+6,Maison/Villa,6 p4 ch120 m²,242 000 €
+6,Maison/Villa,5 p4 ch107 m²,189 000 €
+6,Maison/Villa,5 p4 ch140 m²,483 700 €
+6,Appartement,"3 p2 ch73,14 m²",192 000 €
+6,Appartement,4 p3 ch87 m²,164 000 €
+6,Maison/Villa,4 p3 ch80 m²,149 000 €
+6,Appartement,3 p2 ch62 m²,149 000 €
+6,Maison/Villa,5 p3 ch140 m²,160 000 €
+6,Maison/Villa,7 p4 ch187 m²,349 000 €
+7,Maison/Villa,5 p4 ch135 m²,245 000 €
+7,Projet de construction,6 p4 ch99 m²,355 000 €
+7,Maison/Villa,4 p3 ch85 m²,199 500 €
+7,Appartement,"2 p1 ch47,9 m²",117 000 €
+7,Appartement neuf,4 p90 m²1 asc,294 100 €
+7,Appartement neuf,3 p58 m²1 asc,184 300 €
+7,Appartement neuf,3 p61 m²1 asc,192 000 €
+7,Appartement neuf,2 p45 m²1 asc,163 400 €
+7,Appartement neuf,2 p49 m²1 asc,169 600 €
+7,Appartement neuf,2 p53 m²1 asc,183 400 €
+7,Appartement neuf,2 p45 m²1 asc,159 800 €
+7,Appartement neuf,3 p65 m²1 asc,202 500 €
+7,Appartement neuf,3 p61 m²1 asc,189 600 €
+7,Appartement neuf,3 p58 m²1 asc,177 600 €
+7,Appartement neuf,2 p49 m²1 asc,190 900 €
+7,Appartement neuf,3 p67 m²1 asc,238 000 €
+7,Appartement neuf,4 p85 m²1 asc,278 900 €
+7,Appartement neuf,3 p63 m²1 asc,190 700 €
+7,Appartement neuf,2 p45 m²1 asc,164 500 €
+7,Appartement neuf,2 p42 m²1 asc,157 300 €
+7,Appartement neuf,3 p66 m²1 asc,228 600 €
+7,Appartement neuf,4 p79 m²1 asc,244 500 €
+7,Appartement neuf,4 p82 m²1 asc,251 900 €
+7,Appartement neuf,3 p65 m²1 asc,205 900 €
+7,Appartement neuf,3 p56 m²1 asc,172 200 €
+8,Appartement neuf,3 p60 m²1 asc,187 800 €
+8,Appartement neuf,3 p58 m²1 asc,180 100 €
+8,Appartement neuf,3 p65 m²1 asc,199 500 €
+8,Appartement,3 p2 ch72 m²,158 000 €
+8,Maison/Villa,5 p3 ch85 m²,164 000 €
+8,Projet de construction,5 p4 ch103 m²,291 900 €
+8,Appartement,"2 p1 ch46,07 m²",137 000 €
+8,Appartement,5 p2 ch71 m²,187 000 €
+8,Appartement,4 p3 ch110 m²,205 000 €
+8,Appartement,"3 p2 ch124,07 m²",220 000 €
+8,Maison/Villa,4 p2 ch85 m²,190 000 €
+8,Maison/Villa,3 p2 ch92 m²,189 800 €
+8,Maison/Villa,6 p4 ch155 m²,249 800 €
+8,Maison/Villa,5 p3 ch63 m²,178 000 €
+8,Maison/Villa,6 p3 ch120 m²,189 500 €
+8,Maison/Villa,5 p4 ch80 m²,180 000 €
+8,Maison/Villa,4 p3 ch110 m²,192 000 €
+8,Maison/Villa,6 p6 ch309 m²,889 000 €
+8,Appartement,1 p19 m²1 asc,83 000 €
+8,Appartement,3 p2 ch73 m²,131 000 €
+8,Maison/Villa,7 p5 ch240 m²,375 000 €
+8,Maison/Villa,5 p4 ch96 m²,210 000 €
+8,Maison/Villa,5 p3 ch115 m²,267 000 €
+8,Appartement,2 p1 ch47 m²,138 000 €
+8,Maison/Villa,5 p4 ch77 m²,115 500 €
+9,Maison/Villa,4 p2 ch80 m²,195 000 €
+10,Appartement neuf,3 p2 ch68 m²,228 000 €
+10,Appartement neuf,2 p1 ch45 m²,180 000 €
+10,Appartement neuf,1 p31 m²2 park,136 000 €
+10,Appartement,4 p3 ch80 m²,212 000 €
+10,Appartement,"5 p2 ch75,77 m²",97 000 €
+10,Maison/Villa,"7 p3 ch118,63 m²",399 000 €
+10,Maison/Villa,5 p3 ch95 m²,415 000 €
+10,Appartement,3 p2 ch67 m²,119 000 €
+10,Appartement,5 p4 ch92 m²,130 380 €
+10,Appartement,4 p3 ch92 m²,117 000 €
+10,Appartement,4 p3 ch92 m²,114 900 €
+10,Maison/Villa,4 p3 ch110 m²,230 000 €
+10,Appartement,3 p1 ch53 m²,115 990 €
+10,Maison/Villa,6 p5 ch200 m²,650 000 €
+10,Appartement,"2 p2 ch66,55 m²",111 000 €
+10,Appartement,2 p1 ch35 m²,80 000 €
+10,Appartement,4 p3 ch90 m²,132 500 €
+10,Appartement,4 p3 ch92 m²,117 000 €
+10,Appartement,5 p4 ch93 m²,144 520 €
+10,Projet de construction,4 p3 ch83 m²,202 500 €
+10,Appartement,3 p2 ch67 m²,109 900 €
+10,Maison/Villa en viager,6 p3 ch160 m²,"bouquet
+235 769 €"
+10,Appartement,2 p1 ch50 m²,150 000 €
+10,Maison/Villa,7 p4 ch207 m²,420 000 €
+10,Appartement,"3 p2 ch75,93 m²",139 900 €
+11,Appartement,"2 p1 ch50,26 m²",190 000 €
+11,Appartement neuf,3 p60 m²1 park,206 000 €
+11,Appartement neuf,2 p40 m²1 park,144 500 €
+11,Appartement neuf,3 p60 m²1 park,210 000 €
+11,Appartement neuf,3 p67 m²1 park,306 000 €
+11,Appartement neuf,2 p44 m²1 park,154 000 €
+11,Appartement neuf,3 p65 m²1 park,232 500 €
+11,Appartement neuf,3 p61 m²1 park,230 000 €
+11,Appartement neuf,2 p40 m²1 park,144 000 €
+11,Appartement neuf,3 p62 m²1 park,210 000 €
+11,Appartement neuf,3 p65 m²1 park,228 000 €
+11,Appartement,"3 p2 ch54,62 m²",236 000 €
+11,Appartement,"4 p2 ch87,82 m²",358 000 €
+11,Appartement,"4 p2 ch63,4 m²",260 000 €
+11,Appartement,5 p3 ch89 m²,118 000 €
+11,Maison/Villa,4 p3 ch,226 000 €
+11,Appartement neuf,"2 p1 ch50,26 m²",175 000 €
+11,Appartement,2 p1 ch52 m²,89 000 €
+11,Maison/Villa,4 p3 ch110 m²,223 000 €
+11,Maison/Villa,6 p3 ch115 m²,237 000 €
+11,Appartement,"4 p3 ch85,26 m²",187 000 €
+11,Maison/Villa,5 p3 ch85 m²,199 000 €
+11,Maison/Villa,6 p4 ch110 m²,229 000 €
+11,Maison/Villa,5 p3 ch110 m²,230 000 €
+11,Appartement,"5 p3 ch82,8 m²",121 000 €
+12,Appartement,1 p33 m²1 asc,77 000 €
+12,Maison/Villa,6 p3 ch96 m²,220 000 €
+12,Maison/Villa,5 p3 ch120 m²,215 000 €
+12,Maison/Villa,5 p4 ch106 m²,314 000 €
+12,Maison/Villa,5 p4 ch130 m²,380 000 €
+12,Maison/Villa,4 p3 ch87 m²,198 900 €

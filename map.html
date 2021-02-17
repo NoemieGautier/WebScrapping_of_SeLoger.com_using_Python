@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3ec43f8e8e724ca59c9bc1e6cf424ed9 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_3ec43f8e8e724ca59c9bc1e6cf424ed9" ></div>
+        
+</body>
+<script>    
+    
+            var map_3ec43f8e8e724ca59c9bc1e6cf424ed9 = L.map(
+                "map_3ec43f8e8e724ca59c9bc1e6cf424ed9",
+                {
+                    center: [50.3758, 3.033],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 9,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_842d2b31967b4a17af3cc6c20ca119db = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_3ec43f8e8e724ca59c9bc1e6cf424ed9);
+        
+    
+            var marker_7f06084c23f7497dbd0f27f4b8f17623 = L.marker(
+                [50.5909, 3.1112],
+                {}
+            ).addTo(map_3ec43f8e8e724ca59c9bc1e6cf424ed9);
+        
+    
+            var icon_df5d320a04f14782b275772bfbb4a0d3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "lightblue", "prefix": "glyphicon"}
+            );
+            marker_7f06084c23f7497dbd0f27f4b8f17623.setIcon(icon_df5d320a04f14782b275772bfbb4a0d3);
+        
+    
+        var popup_afcaa14a53ea4e85a564b5cda817e264 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_0efa34c8b6ed48198d07dc762f8e0fb8 = $(`<div id="html_0efa34c8b6ed48198d07dc762f8e0fb8" style="width: 100.0%; height: 100.0%;"><strong> Lesquin </strong></div>`)[0];
+            popup_afcaa14a53ea4e85a564b5cda817e264.setContent(html_0efa34c8b6ed48198d07dc762f8e0fb8);
+        
+
+        marker_7f06084c23f7497dbd0f27f4b8f17623.bindPopup(popup_afcaa14a53ea4e85a564b5cda817e264)
+        ;
+
+        
+    
+    
+            marker_7f06084c23f7497dbd0f27f4b8f17623.bindTooltip(
+                `<div>
+                     Average Housing Price: 271 476 €
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8488d34184d64a498915114aa0e5cc73 = L.marker(
+                [50.3459, 3.4001],
+                {}
+            ).addTo(map_3ec43f8e8e724ca59c9bc1e6cf424ed9);
+        
+    
+            var icon_1f76f05c227a4d5fbe9aaef5c5ae31d0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_8488d34184d64a498915114aa0e5cc73.setIcon(icon_1f76f05c227a4d5fbe9aaef5c5ae31d0);
+        
+    
+        var popup_66243981aef84f83b5c32dcf6f226fed = L.popup({"maxWidth": "100%"});
+
+        
+            var html_24309a2756c64d878e5b3fecf59c7587 = $(`<div id="html_24309a2756c64d878e5b3fecf59c7587" style="width: 100.0%; height: 100.0%;"><strong> Faches-Thumesnil </strong></div>`)[0];
+            popup_66243981aef84f83b5c32dcf6f226fed.setContent(html_24309a2756c64d878e5b3fecf59c7587);
+        
+
+        marker_8488d34184d64a498915114aa0e5cc73.bindPopup(popup_66243981aef84f83b5c32dcf6f226fed)
+        ;
+
+        
+    
+    
+            marker_8488d34184d64a498915114aa0e5cc73.bindTooltip(
+                `<div>
+                     Average Housing Price: 243 426 €
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_7f087d4ccef7470d851c222c555b4918 = L.marker(
+                [50.6059, 3.0787],
+                {}
+            ).addTo(map_3ec43f8e8e724ca59c9bc1e6cf424ed9);
+        
+    
+            var icon_efdd934024cc41049d088b0b5f35e249 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_7f087d4ccef7470d851c222c555b4918.setIcon(icon_efdd934024cc41049d088b0b5f35e249);
+        
+    
+        var popup_611d4fb18dd54b5eadfd30c4b3614144 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4fcdf85c9815424e8d5b07812993b4fc = $(`<div id="html_4fcdf85c9815424e8d5b07812993b4fc" style="width: 100.0%; height: 100.0%;"><strong> Ronchin </strong></div>`)[0];
+            popup_611d4fb18dd54b5eadfd30c4b3614144.setContent(html_4fcdf85c9815424e8d5b07812993b4fc);
+        
+
+        marker_7f087d4ccef7470d851c222c555b4918.bindPopup(popup_611d4fb18dd54b5eadfd30c4b3614144)
+        ;
+
+        
+    
+    
+            marker_7f087d4ccef7470d851c222c555b4918.bindTooltip(
+                `<div>
+                     Average Housing Price: 235 991 €
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_9c82e99b4e454613925b506827af34cb = L.marker(
+                [50.581494, 3.044099],
+                {}
+            ).addTo(map_3ec43f8e8e724ca59c9bc1e6cf424ed9);
+        
+    
+            var icon_9b4f19173e424c7a8a83c62f7893950f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "orange", "prefix": "glyphicon"}
+            );
+            marker_9c82e99b4e454613925b506827af34cb.setIcon(icon_9b4f19173e424c7a8a83c62f7893950f);
+        
+    
+        var popup_d7a0f3e5d60e45279a030a7dad9ed850 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_fff06a7ae5a1446495096435d499d23e = $(`<div id="html_fff06a7ae5a1446495096435d499d23e" style="width: 100.0%; height: 100.0%;"><strong> Wattignies </strong></div>`)[0];
+            popup_d7a0f3e5d60e45279a030a7dad9ed850.setContent(html_fff06a7ae5a1446495096435d499d23e);
+        
+
+        marker_9c82e99b4e454613925b506827af34cb.bindPopup(popup_d7a0f3e5d60e45279a030a7dad9ed850)
+        ;
+
+        
+    
+    
+            marker_9c82e99b4e454613925b506827af34cb.bindTooltip(
+                `<div>
+                     Average Housing Price: 210 373 €
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
